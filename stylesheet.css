@@ -1,0 +1,10 @@
+h1{color: pink;}
+h3{color:#DDA0DD;}
+body{color: white;}
+body { background-color: black;}
+body {border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: #FFFACD;}
+body{font-family: 'Gaegu', cursive;}
